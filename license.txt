@@ -1,0 +1,4 @@
+The game is using BSD 2-Clause License
+Copyright (c) 2024, RedstoneOre on Github
+FullCircle.Rebuilder
+Report BUGS:	https://github.com/RedstoneOre/FullCircle.Rebuilder/issues/new?title=[BUG]

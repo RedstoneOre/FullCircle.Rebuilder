@@ -1,0 +1,14 @@
+{
+	"reverse": false,
+	"values": {
+		"cr": {
+			"tip": {
+				"game_description": {
+					"file": "description.txt",
+					"root": "dir/"
+				}
+			}
+		}
+	},
+	"version": [ 0 ]
+}
